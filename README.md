@@ -19,11 +19,10 @@ Style Tiles are a design deliverable consisting of fonts, colors and interface e
 This is a marriage of your wireframes and style tiles. I will be assessing your .psd on layer organization, use of a grid system, and overall [photoshop etiquette](http://photoshopetiquette.com/). 
     
 [ ] HTML / CSS 
-
-[ ] Use of Appropriate Tags 
-[ ] Cleanliness of your code. Pay attention to your indentation and organization of your code. 
-[ ] Use of Media Queries when needed 
-[ ] Final output matches your Photoshop Mockup
+- Use of Appropriate Tags 
+- Cleanliness of your code. Pay attention to your indentation and organization of your code. 
+- Use of Media Queries when needed 
+- Final output matches your Photoshop Mockup
    
 ### You must complete every item listed above. Submissions that do not complete the checklist above will receive a 0.
     
